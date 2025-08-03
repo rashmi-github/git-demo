@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("Hello beautiful World!");
-		System.out.println("Hello World!");
+		System.out.println("Hello beautiful World!-From Baby Santa");
                 System.out.println("Hello again!");
 
 		SpringApplication.run(DemoApplication.class, args);
